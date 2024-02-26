@@ -1,0 +1,178 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.every{
+    background-color: black;
+}
+
+img{
+    height: 45px;
+    width: 50px;
+}
+
+#upper{
+    color: whitesmoke;
+}
+
+.head{
+    display: flex;
+    justify-content: space-between;
+}
+
+#list a{
+    text-decoration: none;
+    margin: 10px;
+
+}
+
+p{
+    text-align: center;
+    color: blue;
+    text-decoration: solid;
+    font-weight: 900;
+    font-size: 35px;
+}
+
+.info{
+    text-align: center;
+    color: beige;
+    display: flex;
+    flex-direction: column;
+    font-size: 40px;
+    font-style: italic;
+}
+
+a{
+    color: rgb(20, 157, 220);
+}
+
+.links a{
+    margin: 10px;
+}
+
+.btn{
+  padding: 0.5em;
+  background: linear-gradient(50deg, rgba(223, 6, 243, 0.5),
+   rgba(2, 180, 250, 0.5));
+  color: whitesmoke;
+  font-size: 15px;
+  font-weight: 100;
+  border-radius: 10px;
+}
+
+#aboutMe{
+    color: white;
+    font-weight: 200;
+}
+
+#soft{
+    color: rgb(31, 119, 252);
+    font-size: 40px;
+}
+
+.write{
+    color: blanchedalmond;
+    font-weight: 100;
+    font-size: 20px;
+    font-style: normal;
+}
+
+
+.skills img{
+    margin: 20px;
+    width: 200px;
+    height: 300px;
+}
+
+.tech {
+    width: 100%;
+    color: white;
+    padding: 0 4em;
+}
+
+.line1 {
+    width: 100%;
+    border-radius: 5px;
+    background-color: rgb(22, 41, 80);
+}
+
+.line2{
+    padding: 5px 0;
+    border-radius: 5px;
+    background: linear-gradient(50deg, rgba(19, 173,199, 1),
+   rgba(105, 120, 209, 1),rgba(148, 93, 214, 1));
+   width: 80%;
+    
+}
+
+.htmladv {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1em;
+}
+
+.combined1 {
+    padding: 0 5em;
+}
+.combined2 {
+    padding: 0 5em;
+    margin-block: 1em;
+}
+.combined3 {
+    padding: 0 5em;
+}
+.technologies{
+    font-size: 2em;
+    margin-block: 1.5em;
+}
+
+.contactMe{
+    color: white;
+}
+
+.contactMe{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.foot a{
+    margin: 10px;
+    color: blue;
+}
+
+#proj{
+    color: whitesmoke;
+    font-size: 2.5em;
+}
+
+.work{
+    width: 10em;
+    height: 10em;
+    box-shadow: 0px 5px 10px rgba(255, 255, 255,0.7);
+    margin-block: 1em;
+}
+
+.workLink{
+    display: flex;
+    flex-direction: column;
+
+
+}
+
+#proj{
+    text-align: center;
+}
+
+.projects{
+    padding: 4em;
+}
+
+.click, .repo {
+    padding: 0.5em 1em;
+    font-weight: 600;
+    border-radius: 5px;
+    background-color: azure;
+}
